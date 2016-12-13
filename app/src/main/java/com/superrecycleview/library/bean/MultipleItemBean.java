@@ -7,6 +7,7 @@ package com.superrecycleview.library.bean;
  */
 public class MultipleItemBean {
 
+
     private int type;
     private String name;
     private String info;
